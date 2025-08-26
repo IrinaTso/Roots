@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ef8ead6da8066463ca182fa36baed453
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - crosshair1: {fileID: 919132149155446097, guid: c1b501e80b91a439981259dde2f0c345,
+      type: 3}
+  - crosshair2: {instanceID: 0}
+  - objTransform: {instanceID: 0}
+  - cameraTrans: {instanceID: 0}
+  - objRigidbody: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
